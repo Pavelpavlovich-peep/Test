@@ -1,2 +1,3 @@
 # Test
 обучаюсь
+#print: brain
